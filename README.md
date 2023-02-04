@@ -1,2 +1,5 @@
 # Lading-Page_NerdScript
-Lading Page, projeto feito durante a participação do #TeuFuturo, com a colaboração do squad 12 (NerdScript). Objetivo: Divulgar workstations da Razor computadores, que sejam uma boa opção de compra para programadores.
+
+Olá! Esta lading page foi construída em equipe com o squad 12-NerdScript do projeto #TeuFuturo de 2022, em parceria com a empresa Razor Computadores. O objetivo é vender as Workstations da Razor de forma prática, simples, bem organizada e que sejam uma boa opção de compra para programadores que necessitam de alta performance.
+
+Os arquivos do projeto podem ser encontrados na branch master.
