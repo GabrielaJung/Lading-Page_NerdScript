@@ -14,3 +14,6 @@ Abaixo, é possível observar o resultado:
 ![7](https://user-images.githubusercontent.com/97003071/216776503-f8d95c3e-34b4-4212-a740-933ad3ae1627.png)
 ![8](https://user-images.githubusercontent.com/97003071/216776505-af1ed308-16c4-4f8a-8394-a9f7b16f41f4.png)
 ![9](https://user-images.githubusercontent.com/97003071/216776512-e8df01d1-23a4-4c03-a87d-3d29e6a27a71.png)
+
+
+OBS.: pode aparentar desalinhamento pelo fato de serem apenas capturas. Ao rodar a página, o resultado tem uma maior qualidade e alinhamento.
