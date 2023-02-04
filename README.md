@@ -5,12 +5,12 @@ Olá! Esta lading page foi construída em equipe com o squad 12-NerdScript do pr
 Os arquivos do projeto podem ser encontrados na branch master.
 Abaixo, é possível observar o resultado:
 
-![1 1](https://user-images.githubusercontent.com/97003071/216775996-becc3684-3eac-460a-a1eb-1af97fbc402c.png)
-![1](https://user-images.githubusercontent.com/97003071/216776010-95a39bf3-9836-455c-8a4e-717b10506981.png)
-![2](https://user-images.githubusercontent.com/97003071/216776014-19ac83ef-761f-44fd-a988-e24f05f84cb2.png)
-![3](https://user-images.githubusercontent.com/97003071/216776015-592f01bd-babf-4bde-9ec6-667a1dbec1e7.png)
-![4](https://user-images.githubusercontent.com/97003071/216776028-2b0343c4-e785-4684-8694-ca5948247254.png)
-![5](https://user-images.githubusercontent.com/97003071/216776026-df45ad7e-bda1-4637-9792-3c5294ce9dbd.png)
-![6](https://user-images.githubusercontent.com/97003071/216776030-f30ca407-05f8-4b25-ab6e-6f73e97ff203.png)
-![7](https://user-images.githubusercontent.com/97003071/216776032-ee8d9e0c-b661-4f76-ab17-2e2778eecad3.png)
-![8](https://user-images.githubusercontent.com/97003071/216776044-e23292fd-67ba-4589-af0e-51d267743376.png)
+![1](https://user-images.githubusercontent.com/97003071/216776472-4bfc0353-a3fe-4269-ad9f-0d0c17c358cd.png)
+![2](https://user-images.githubusercontent.com/97003071/216776481-faf2cedc-ec78-47fb-878c-d8e0875246c9.png)
+![3](https://user-images.githubusercontent.com/97003071/216776484-728cc293-de45-48de-a210-da1906d7e37e.png)
+![4](https://user-images.githubusercontent.com/97003071/216776490-6990c011-bd82-4de6-b1be-77de828e5695.png)
+![5](https://user-images.githubusercontent.com/97003071/216776494-7a03bc53-9e63-4bb8-a6c9-2808924b9a06.png)
+![6](https://user-images.githubusercontent.com/97003071/216776498-878e256e-84ab-40c8-a536-60faa4e75ea1.png)
+![7](https://user-images.githubusercontent.com/97003071/216776503-f8d95c3e-34b4-4212-a740-933ad3ae1627.png)
+![8](https://user-images.githubusercontent.com/97003071/216776505-af1ed308-16c4-4f8a-8394-a9f7b16f41f4.png)
+![9](https://user-images.githubusercontent.com/97003071/216776512-e8df01d1-23a4-4c03-a87d-3d29e6a27a71.png)
